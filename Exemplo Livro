@@ -1,0 +1,60 @@
+<section>
+    <title>Descrição</title> 
+    <text>
+        Quizlet é uma ferramenta de estudo gamificada que utiliza cartões de memória (flashcards), que são cartões que podem conter textos e imagens na frente e a respectiva definição no verso. Com o Quizlet, é possível criar coleções de listas que podem ser usadas como exercícios, jogos e outros meios para ajudar os estudantes a memorizar e revisar o conteúdo de maneira fácil.
+
+        <br><br>
+        
+        Professores também podem criar turmas, compartilhar atividades de revisão com os alunos e até mesmo promover competições para ver como está o nível de compreensão da turma sobre determinado assunto. Alunos, por sua vez, podem criar suas próprias listas de flashcards e utilizar o aplicativo como uma forma personalizada de revisão, evitando a necessidade de anotações em papel que podem se tornar confusas com o tempo. 
+        
+        <br><br> 
+        
+        A ferramenta possui milhares de listas de cartões criadas por usuários de todo o mundo, sobre conteúdos diversos. Quizlet está disponível tanto para web quanto para mobile (Android e iOS), e para acessar, basta criar uma nova conta na plataforma ou utilizar uma conta Google. Existem planos pagos, mas o plano gratuito do Quizlet já permite explorar diversas funcionalidades interessantes. 
+    </text> 
+</section> 
+<section> 
+    <title>Disciplinas contempladas</title>
+    <text>
+        O Quizlet pode ser usado em diversas disciplinas, tanto na Educação Básica quanto no Ensino Superior. Entre as disciplinas contempladas, estão: 
+        <br>\t- Língua Portuguesa 
+        <br>\t- Língua Inglesa 
+        <br>\t- Ciências Sociais 
+        <br>\t- Artes 
+        <br>\t- História 
+        <br>\t- Química 
+        <br>\t- Biologia 
+    </text> 
+</section> 
+<section> 
+    <title>Metadados LRE/LOM</title> 
+    <text> Informática Aplicada a Educação </text> 
+        <br>
+        ▪ Elementos obrigatórios 
+        <br>\t- Língua: pt-BR 
+        <br>\t- Tipo de recurso de aprendizagem: Texto, Imagem, Avaliação, Grafico e Website 
+        <br>\t- Custo: Sem custo/Com custos 
+        <br>\t- Direitos autorais: Possui direitos autorais 
+        <br>\t- Descrição diretiros autorais: Licença de distribuição, uso, alteração e comercialização 
+    </text>
+</section> 
+<section> 
+    <title>Site oficial</title> 
+    <text>Quizlet (https://quizlet.com/pt-br)</text> 
+</section> 
+<section> 
+    <title>Referência(s)</title> 
+    <text> 
+        VARGAS, J. M. Modern learning: Quizlet in the social studies classroom. Disponível em: <https://soar.wichita.edu//handle/10057/3986>. Acesso em: 5 fev. 2023. 
+        <br><br>
+        Retrieved from 'http://quizwiki.cic.unb.br/iae2019-1/index.php/Quizlet' 
+        <br>Categories: Software | Game Learning | Recurso Digital 
+        <br>Facts about QuizletRDF feed 
+        <br>IAE.Escopo                                                                                                     Informática Aplicada a Educação + 
+        <br>LRE:Direitos Autorais.Copyright e Outras Restrições-LOM 6.2   true + 
+        <br>LRE:Direitos Autorais.Custo-LOM 6.1                                                   false + 
+        <br>LRE:Direitos Autorais.Descrição-LOM 6.3                                          x-t-rights-url 
+        <br>LRE:Educacional.Tipo de Recurso de Aprendizagem-LOM 5.2    Texto +, Imagem +, Avaliação +, Grafico + and Website + 
+        <br>LRE:Geral.Lingua-LOM 1.3                                                                        pt-BR + 
+        <br>Utilizado-na-disciplina                                                                               Língua Portuguesa +, Língua Inglesa +, Ciências Sociais +, Artes +, História +, Química + and Biologia + 
+    </text> 
+</section>
